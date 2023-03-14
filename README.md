@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript & React**
 
-- 👨‍💻 All of my projects are available at [brianbud.com](https://brianbud.com/)
+- 👨‍💻 All of my projects are available at (portfolio WIP)
 
 - 📝 I regularly write articles on [https://brianbud.hashnode.dev/](https://brianbud.hashnode.dev/)
 
